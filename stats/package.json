@@ -1,0 +1,17 @@
+{
+  "name": "stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "moralis": "^2.6.5",
+    "moralis-v1": "^1.11.0"
+  }
+}
